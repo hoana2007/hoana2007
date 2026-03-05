@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoana2007
 - 👀 I’m interested in Avatar
-- 🌱 I’m currently learning C++, C#, Python, Pascal, PHP
+- 🌱 I like C++, C#, Python, Pascal, PHP, Javascript, CSS, HTML
 - 💞️ I’m looking to collaborate on friend.
 - 📫 How to reach me ...
 
